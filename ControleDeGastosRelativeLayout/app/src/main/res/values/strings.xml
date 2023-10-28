@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Controle de Gastos</string>
+    <string name="hint_distancia">Distancia Percorrida</string>
+    <string name="hint_preco">Preço</string>
+    <string name="hint_autonomia">Autonomia</string>
+
+</resources>
